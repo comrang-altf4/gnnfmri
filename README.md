@@ -1,0 +1,2 @@
+# gnnfmri
+GNN for fmri
